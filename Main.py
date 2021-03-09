@@ -1,4 +1,4 @@
-print ("[BOT] Mechanism: Hola")
+print = ("[BOT] Mechanism: Hola")
 ans = input()
 print ("[BOT] Mechanism: Cual es tu nombre?")
 name = input()
