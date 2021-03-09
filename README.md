@@ -3,13 +3,9 @@ This project is about a ChatBot where you can interact with it as many times as 
 
 # How can I use the ChatBot?
 The ChatBot will first start trying to interact with you. 
+
 ```Bot message: print ("[BOT]Mechanism: Hi")
 Your answer: ans = input()
-```
-
-Second interaction
-
-```
 Bot message: print ("[BOT]Mechanism: What is your name")
 Your answer: name = input()
 ```
